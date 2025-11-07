@@ -692,7 +692,7 @@
 	wildmon 10, PIDGEY
 	; nite
 	wildmon 13, ODDISH
-	wildmon 10, VENONAT
+	wildmon 12, VENONAT
 	wildmon 14, ODDISH
 	wildmon 11, PSYDUCK
 	wildmon 11, HOOTHOOT
