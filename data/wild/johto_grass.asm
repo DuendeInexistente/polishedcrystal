@@ -677,27 +677,27 @@
 	; morn
 	wildmon 9, CATERPIE
 	wildmon 9, WEEDLE
-	wildmon 10, METAPOD
-	wildmon 10, KAKUNA
+	wildmon 11, METAPOD
+	wildmon 11, KAKUNA
 	wildmon 10, PIDGEY
-	wildmon 9, PARAS
-	wildmon 10, PARAS
+	wildmon 11, PARAS
+	wildmon 12, PARAS
 	; day
-	wildmon 9, CATERPIE
-	wildmon 9, WEEDLE
-	wildmon 10, METAPOD
-	wildmon 10, KAKUNA
-	wildmon 9, PARAS
-	wildmon 8, ODDISH
+	wildmon 10, CATERPIE
+	wildmon 10, WEEDLE
+	wildmon 11, METAPOD
+	wildmon 11, KAKUNA
+	wildmon 10, PARAS
+	wildmon 11, ODDISH
 	wildmon 10, PIDGEY
 	; nite
-	wildmon 9, ODDISH
-	wildmon 9, VENONAT
-	wildmon 10, ODDISH
-	wildmon 10, PSYDUCK
-	wildmon 10, HOOTHOOT
-	wildmon 9, PARAS
-	wildmon 10, PARAS
+	wildmon 13, ODDISH
+	wildmon 10, VENONAT
+	wildmon 14, ODDISH
+	wildmon 11, PSYDUCK
+	wildmon 11, HOOTHOOT
+	wildmon 13, PARAS
+	wildmon 12, PARAS
 	end_grass_wildmons
 
 	def_grass_wildmons MOUNT_MORTAR_1F_OUTSIDE
