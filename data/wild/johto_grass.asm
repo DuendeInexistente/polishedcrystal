@@ -479,54 +479,54 @@
 	def_grass_wildmons UNION_CAVE_1F
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	wildmon 8, GEODUDE
-	wildmon 8, SANDSHREW
-	wildmon 7, ZUBAT
-	wildmon 6, RATTATA
-	wildmon 9, ZUBAT
-	wildmon 8, ONIX
-	wildmon 8, ONIX
-	; day
-	wildmon 8, GEODUDE
-	wildmon 8, SANDSHREW
-	wildmon 7, ZUBAT
-	wildmon 6, RATTATA
-	wildmon 9, ZUBAT
-	wildmon 8, ONIX
-	wildmon 8, ONIX
-	; nite
-	wildmon 8, GEODUDE
+	wildmon 10, GEODUDE
+	wildmon 10, SANDSHREW
+	wildmon 8, ZUBAT
 	wildmon 8, RATTATA
-	wildmon 7, WOOPER
-	wildmon 6, RATTATA
+	wildmon 10, ZUBAT
+	wildmon 12, ONIX
+	wildmon 10, ONIX
+	; day
+	wildmon 10, GEODUDE
+	wildmon 10, SANDSHREW
+	wildmon 7, ZUBAT
+	wildmon 8, RATTATA
 	wildmon 9, ZUBAT
-	wildmon 8, ONIX
-	wildmon 8, ONIX
+	wildmon 10, ONIX
+	wildmon 11, ONIX
+	; nite
+	wildmon 12, GEODUDE
+	wildmon 8, RATTATA
+	wildmon 9, WOOPER
+	wildmon 7, RATTATA
+	wildmon 12, ZUBAT
+	wildmon 10, ONIX
+	wildmon 10, ONIX
 	end_grass_wildmons
 
 	def_grass_wildmons UNION_CAVE_B1F_NORTH
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	wildmon 8, GEODUDE
-	wildmon 6, ZUBAT
-	wildmon 8, ZUBAT
-	wildmon 8, ONIX
+	wildmon 12, GEODUDE
+	wildmon 9, ZUBAT
+	wildmon 9, ZUBAT
+	wildmon 12, ONIX
 	wildmon 6, RATTATA
 	wildmon 8, RATTATA
 	wildmon 8, RATTATA
 	; day
-	wildmon 8, GEODUDE
+	wildmon 11, GEODUDE
 	wildmon 6, ZUBAT
 	wildmon 8, ZUBAT
-	wildmon 8, ONIX
+	wildmon 11, ONIX
 	wildmon 6, RATTATA
 	wildmon 8, RATTATA
 	wildmon 8, RATTATA
 	; nite
-	wildmon 8, GEODUDE
-	wildmon 6, ZUBAT
-	wildmon 8, WOOPER
-	wildmon 8, ONIX
+	wildmon 9, GEODUDE
+	wildmon 10, ZUBAT
+	wildmon 10, WOOPER
+	wildmon 9, ONIX
 	wildmon 6, RATTATA
 	wildmon 8, RATTATA
 	wildmon 8, RATTATA
@@ -594,26 +594,26 @@
 	wildmon 5, ZUBAT
 	wildmon 6, ZUBAT
 	wildmon 7, ZUBAT
-	wildmon 6, POLIWAG
+	wildmon 10, POLIWAG
 	wildmon 8, ZUBAT
-	wildmon 8, SLOWPOKE
-	wildmon 8, SLOWPOKE
+	wildmon 11, SLOWPOKE
+	wildmon 10, SLOWPOKE
 	; day
 	wildmon 5, ZUBAT
 	wildmon 6, ZUBAT
 	wildmon 7, ZUBAT
-	wildmon 6, POLIWAG
+	wildmon 11, POLIWAG
 	wildmon 8, ZUBAT
-	wildmon 8, SLOWPOKE
-	wildmon 8, SLOWPOKE
+	wildmon 11, SLOWPOKE
+	wildmon 12, SLOWPOKE
 	; nite
-	wildmon 5, ZUBAT
-	wildmon 6, ZUBAT
-	wildmon 7, ZUBAT
-	wildmon 6, GASTLY
 	wildmon 8, ZUBAT
-	wildmon 8, SLOWPOKE
-	wildmon 8, SLOWPOKE
+	wildmon 9, ZUBAT
+	wildmon 10, ZUBAT
+	wildmon 9, GASTLY
+	wildmon 8, ZUBAT
+	wildmon 9, SLOWPOKE
+	wildmon 10, SLOWPOKE
 	end_grass_wildmons
 
 	def_grass_wildmons SLOWPOKE_WELL_B1F
@@ -622,26 +622,26 @@
 	wildmon 5, ZUBAT
 	wildmon 6, ZUBAT
 	wildmon 7, ZUBAT
-	wildmon 6, SLOWPOKE
+	wildmon 11, SLOWPOKE
 	wildmon 8, ZUBAT
-	wildmon 8, SLOWPOKE
-	wildmon 8, SLOWPOKE
+	wildmon 12, SLOWPOKE
+	wildmon 12, SLOWPOKE
 	; day
 	wildmon 5, ZUBAT
 	wildmon 6, ZUBAT
 	wildmon 7, ZUBAT
-	wildmon 6, SLOWPOKE
+	wildmon 11, SLOWPOKE
 	wildmon 8, ZUBAT
-	wildmon 8, SLOWPOKE
-	wildmon 8, SLOWPOKE
+	wildmon 13, SLOWPOKE
+	wildmon 13, SLOWPOKE
 	; nite
-	wildmon 5, ZUBAT
-	wildmon 6, ZUBAT
-	wildmon 7, ZUBAT
-	wildmon 6, SLOWPOKE
 	wildmon 8, ZUBAT
-	wildmon 8, SLOWPOKE
-	wildmon 8, SLOWPOKE
+	wildmon 9, ZUBAT
+	wildmon 10, ZUBAT
+	wildmon 9, SLOWPOKE
+	wildmon 11, ZUBAT
+	wildmon 10, SLOWPOKE
+	wildmon 9, SLOWPOKE
 	end_grass_wildmons
 
 	def_grass_wildmons SLOWPOKE_WELL_B2F
